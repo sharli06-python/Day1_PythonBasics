@@ -1,1 +1,1 @@
-Basic input/output and math exercises
+Basic input/output and math exercises.
